@@ -1,7 +1,6 @@
 https://www.youtube.com/watch?v=GSY_uuJpZXo
 
-Project back in 2020
-test for hollaween and christmas decorations
+test for halloween and christmas decorations
 
 LEDs, RGB LED, temp sensor, remote, resistors
 
